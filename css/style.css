@@ -131,7 +131,7 @@ body {
 .card__image {
   background-image: url("../assets/images/image-header-desktop.jpg");
   background-color: var(--color-primary-soft-violet-accent);
-  background-blend-mode: multiply;
+  background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
   min-height: 27.875rem;
